@@ -1,2 +1,4 @@
 # Child
 
+import parent
+
